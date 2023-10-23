@@ -12,7 +12,7 @@ It is built using React, material UI for styling,CoinGecko API for the coins  an
 
 
 ## Demo
-Here's the live site https://coin-watch-app.vercel.app/
+Here's the live site https://crypto-watch-lfaqp2whe-larmbee.vercel.app/
 
 
 ## Setup and Installation
