@@ -20,7 +20,7 @@ Here's the live site https://coin-watch-app.vercel.app/
 2. Clone 
 3. Install dependencies:
 ```bash
-npm install
+npm install.
 ```
 4. Run the app:
  ```bash
