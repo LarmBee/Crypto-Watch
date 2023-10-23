@@ -1,4 +1,4 @@
-# Coin-watch
+# Crypto-watch
 A site where a user is able to access both the news and information about various cryptocurrencies. 
 It is built using React, material UI for styling,CoinGecko API for the coins  and details data, Rapid API for the news data ad finally deployeed to vercel.
 
@@ -9,8 +9,7 @@ It is built using React, material UI for styling,CoinGecko API for the coins  an
 4. Coin Details page, with prices and a chart.
 5. Add coins to Favorites After loggin in.
 
-## Design
-Find the design [here](https://www.figma.com/file/uixKCtl6niypOAnO7I8g70/Crypto-watch-react-app?node-id=8%3A101)
+
 
 ## Demo
 Here's the live site https://coin-watch-app.vercel.app/
@@ -44,7 +43,5 @@ To use the site you'll need;
 
 
 ## Contributor
-- [Catherine Kawara](https://github.com/CKawara/)
+- [Brandon Kanute](https://github.com/LarmBee)
 
-# License
-[MIT licence](https://github.com/CKawara/Coin-watch/blob/main/LICENSE)

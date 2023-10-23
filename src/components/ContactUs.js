@@ -95,7 +95,7 @@ const ContactUs= () => {
         </Grid>
         </Grid>
     </div>
-    <div className={classes.footer}>Made with <span><FavoriteBorder fontSize='small' /> </span> by <span>CKawara</span> </div>
+    <div className={classes.footer}>Made with <span><FavoriteBorder fontSize='small' /> </span> by <span>Brandon Kanute</span> </div>
     </>
   )
 }

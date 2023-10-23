@@ -48,7 +48,7 @@ const NavBar = () => {
         <Container >
           <Toolbar>
             <Typography style={{marginRight: 'auto', cursor: 'pointer'}} 
-            onClick={()=>history('/')}>Coin<span>Watch</span></Typography> 
+            onClick={()=>history('/')}>Crypto<span>Watch</span></Typography> 
             <Hidden xsDown>
               <div className={classes.navlinks}>
                 <NavLink to="/" exact className={classes.link} 
